@@ -1,0 +1,90 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Arghya's Personal Site</title>
+   </head>
+
+  <body>
+    <table cellspacing="20">
+      <tr>
+        <td>  <img src="https://pbs.twimg.com/profile_images/1295804748554092546/xDvBFrFe_400x400.jpg" alt="Arghya profile picture"></td>
+         <td>    <h1>WELCOME🙏</h1>
+         <p><em> <b>I am Arghya Banerjee.. fresher at web developing</b></em><p></td>
+      </tr>
+    </table>
+
+
+  <hr>
+  <h3>books and teaching</h3>
+  <ul>
+    <li><a href="https://www.amazon.in/Indian-Polity-Civil-Services-Examinations/dp/B07Y3CJJCR">Indian Polity, M.Laxmikanth</a></li>
+    <li>swadesh savvotar itihas, jibon mukherjee</li>
+  </ul>
+  <hr>
+<a href="hobbies.html">My Hobbies</a>
+<hr>
+<h3> <em>My Profession</em> </h3>
+<ol>
+  <li>NOt yet working. Just completed my graduation in ENGLISH LITERATURE, from the <a href="https://www.klyuniv.ac.in/">UNIVERSITY OF KALYANI</a></li>
+  <li>Just preparing myself for WBCS as well as POLICE  EXAMS too.</li>
+  <li>Now a days I started learning <a href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwio8M6cve7yAhVCJSsKHXdLCoYYABAAGgJzZg&ae=2&ohost=www.google.com&cid=CAESQeD2uoeSHvzQ3ybe8z3DlUClb9865ti_Vqoy7N464QT9VnIYFoX5l0Lj2JzE1fYjH0tGt82fw4BDtkZFVisjZElo&sig=AOD64_195T696JOS3_39mx7zP2ZliG_bTw&q&adurl&ved=2ahUKEwiYh8Wcve7yAhV5lEsFHUqiBJgQ0Qx6BAgDEAE">WEB DEVELOPMENT</a></li>
+</ol>
+<hr>
+<h3>EDUCATIONAL QUALIFICATIONS</h3>
+<table cellspacing="10">
+    <tr>
+      <th>DATES</th>
+      <th>Education/BOARD</th>
+      <th>REMARKS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2014</td>
+      <td>Secondary Examination, WBBSE.</td>
+      <td>REMARKS: 59.42%</td>
+    </tr>
+    <tr>
+      <td>2016</td>
+      <td>Higher Secondary Examination, WBCHSE.</td>
+      <td>REMARKS: 78.2%</td>
+    </tr>
+    <tr>
+      <td>2020</td>
+      <td>B.A. HONOURS in ENLISH LITERATURE.</td>
+     <td>UNIVERSITY OF KALYANI.</td>
+      <td>REMARKS:55.125%</td>
+    </tr>
+  </tbody>
+</table>
+<hr>
+<h3>SKILLS</h3>
+
+<table cellspacing="10">
+  <tr>
+    <td>
+      <table>
+      <tr>
+        <td>https</td>
+        <td>⭐</td>
+      </tr>
+      <tr>
+        <td>css</td>
+        <td>⭐</td>
+      </tr>
+      <tr>
+        <td>javascript</td>
+        <td>⭐</td>
+      </tr>
+      <tr>
+        <td>phptography</td>
+        <td>⭐⭐</td>
+      </tr>
+    </table>
+    </td>
+<hr>
+
+
+</body>
